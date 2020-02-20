@@ -1,26 +1,26 @@
 {
     "customers" : [
-        { "id" : 1, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""},
-        { "id" : 2, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""},
-        { "id" : 3, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""},
-        { "id" : 4, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""},
-        { "id" : 5, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""},
-        { "id" : 6, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""},
-        { "id" : 7, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""},
-        { "id" : 8, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""},
-        { "id" : 9, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""},
-        { "id" : 10, "account_name" : "", "activity_sector" : "", "legal_identifier" : "", "nb_employees": "", "headquarter_address" : "", "billing_address" : ""}
+        { "id" : 1, "account_name" : "Société Générale", "activity_sector" : "Banque", "legal_identifier" : "12387612376112", "nb_employees": "90123", "headquarter_address" : "", "billing_address" : ""},
+        { "id" : 2, "account_name" : "Générali", "activity_sector" : "Banque", "legal_identifier" : "12387612376112", "nb_employees": "23091", "headquarter_address" : "", "billing_address" : ""},
+        { "id" : 3, "account_name" : "MKDM Partner", "activity_sector" : "Service", "legal_identifier" : "12387612376112", "nb_employees": "2", "headquarter_address" : "41 avenue Edouard Vaillant", "billing_address" : "41 avenue Edouard Vaillant"},
+        { "id" : 4, "account_name" : "Sodexo", "activity_sector" : "Alimentaire", "legal_identifier" : "12387612376112", "nb_employees": "7000", "headquarter_address" : "", "billing_address" : ""},
+        { "id" : 5, "account_name" : "Ministère de la justice", "activity_sector" : "Service public", "legal_identifier" : "12387612376112", "nb_employees": "3400", "headquarter_address" : "", "billing_address" : ""},
+        { "id" : 6, "account_name" : "Bouygues Immobilier", "activity_sector" : "Bâtiment", "legal_identifier" : "12387612376112", "nb_employees": "55000", "headquarter_address" : "", "billing_address" : ""},
+        { "id" : 7, "account_name" : "Solantis", "activity_sector" : "Service", "legal_identifier" : "12387612376112", "nb_employees": "340", "headquarter_address" : "", "billing_address" : ""},
+        { "id" : 8, "account_name" : "Microsoft", "activity_sector" : "Technologie", "legal_identifier" : "12387612376112", "nb_employees": "240000", "headquarter_address" : "", "billing_address" : ""},
+        { "id" : 9, "account_name" : "Danone", "activity_sector" : "Alimentaire", "legal_identifier" : "12387612376112", "nb_employees": "31000", "headquarter_address" : "", "billing_address" : ""},
+        { "id" : 10, "account_name" : "L'Oréal", "activity_sector" : "Luxe", "legal_identifier" : "12387612376112", "nb_employees": "19123", "headquarter_address" : "", "billing_address" : ""}
     ],
     "opportunities": [
-        { "id" : 1, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : true},
-        { "id" : 2, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : false},
-        { "id" : 3, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : true},
-        { "id" : 4, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : false},
-        { "id" : 5, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : true},
-        { "id" : 6, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : false},
-        { "id" : 7, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : false},
-        { "id" : 8, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : false},
-        { "id" : 9, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : false},
-        { "id" : 10, "customer_id" : "", "name" : "", "description" : "", "budget": "", "stage" : "", "is_won" : false}
+        { "id" : 1, "customer_id" : "1", "name" : "Développement applicatif", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 2500, "stage" : "Gagnée", "is_won" : true},
+        { "id" : 2, "customer_id" : "2", "name" : "Conseil infrascture et réseau", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 850, "stage" : "Refus client", "is_won" : false},
+        { "id" : 3, "customer_id" : "2", "name" : "Déploiement solution du marché", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 6520, "stage" : "Gagnée", "is_won" : true},
+        { "id" : 4, "customer_id" : "3", "name" : "Intégration CRM Salesforce", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 15200, "stage" : "Répondu, en attente", "is_won" : false},
+        { "id" : 5, "customer_id" : "5", "name" : "Intégration module Odoo", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 4500, "stage" : "Gagnée", "is_won" : true},
+        { "id" : 6, "customer_id" : "6", "name" : "Refonte portail collaborateur", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 25000, "stage" : "Répondu, en attente", "is_won" : false},
+        { "id" : 7, "customer_id" : "7", "name" : "Développement application mobile", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 20500, "stage" : "Réponse en cours", "is_won" : false},
+        { "id" : 8, "customer_id" : "8", "name" : "Digitalisation des process & BPM", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 250000, "stage" : "Réponse en cours", "is_won" : false},
+        { "id" : 9, "customer_id" : "9", "name" : "Direction de projet", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 6500, "stage" : "Qualification", "is_won" : false},
+        { "id" : 10, "customer_id" : "10", "name" : "Agilisation du SI", "description" : "Is fieri convivia artem exceptis debetur temporibus noxia autem aut is convivia aut digesto si exceptis his digesto his vicissitudo.", "budget": 2800, "stage" : "Qualification", "is_won" : false}
     ]
 }
